@@ -1,0 +1,6 @@
+time,tweet
+2008-07-16 06:18:04,"Reading the Development API, Looking for a Custom IDE to create."
+2008-07-17 05:04:22,"attempting to use a liburl library to interface with the twitter server, so far not much docu, but hoping to see a little more time on this."
+2008-07-17 05:07:05,"Setting up Membership Script, on server, to test it all out, fun fun fun"
+2008-07-17 07:20:37,Looking at AJAX verification query for validating membership downloads
+2008-07-17 08:32:54,Base 64 encoding versus URLencode functions for twitter API

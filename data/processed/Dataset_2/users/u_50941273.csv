@@ -1,0 +1,6 @@
+time,tweet
+2009-11-13 13:41:25,"tructured, sparse, unbounded data.↵Implements Uses binning/spatial hashing for efficient region lookup in dense, bounded data. Allows intera"
+2009-11-13 13:40:31,thousands of tens of particles to be rendered in realtime.↵Implements w quadtree↵[ quadtreesh for efficient neighbor←↓←region lookup in uns
+2009-11-13 13:39:47,"). Requires ofxColor and ofxSvg. dem     ↵↑Implements Barnes-Hut w barnes-hut↵←[ ↓←] gravity simulation←approximation←↓ simulation, allowing"
+2009-11-13 13:38:17,s .svg fies←→←→efficiently draws them with caching. Allows a single set of paths to be drawn multiple times with variations using drawPlain(
+2009-11-13 13:37:36,"owing the for ofxColor myColor = ""0xfg fast invsqrt↵"" o;;↵Implements a subset of the SVG specification, importing and drawing←, cachin. Load"

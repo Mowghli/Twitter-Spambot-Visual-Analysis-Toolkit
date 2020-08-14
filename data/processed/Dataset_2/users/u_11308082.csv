@@ -1,0 +1,6 @@
+time,tweet
+2009-11-15 13:06:41,Is there anything better than Shader Builder? I want something with better compile errors and the ability to set language to GLSL/ES.
+2009-11-14 17:35:07,@litwack Squarespace is looking very good to me at this point.
+2009-11-13 12:02:14,"@alexr Quite possibly. There was some real low hanging fruit once I ran a profiler, around 200x speed up, but I still need more."
+2009-11-13 11:14:03,"Got the visual effect I was going for, but it takes 3 minutes on my 3GS to setup the textures. Time to see what I can optimize that down to."
+2009-11-12 19:18:05,"Is it just me, or does SPDY seem a lot like HTTP/NG with 15 years of extra time to think about it?"

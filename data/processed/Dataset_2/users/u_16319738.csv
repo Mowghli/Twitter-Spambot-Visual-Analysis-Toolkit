@@ -1,0 +1,6 @@
+time,tweet
+2009-11-26 10:10:32,@jpiscaer Use fencing to duplicate a configuration and isolate MAC and IP addresses (uses extra IPs)
+2009-11-26 10:09:48,@jpiscaer Use physical network to assign public routable IP address space. Be conservative since public IPs are limited on your network.
+2009-11-26 10:08:10,@jpiscaer Use network templates to assign private non-routable IP address space.
+2009-11-26 10:07:10,@jpiscaer I could sum them up for you in a few sentences probably.
+2009-11-25 23:20:47,"@squarie Considering all of the baking I have done in my lifetime, I haven't experienced it."

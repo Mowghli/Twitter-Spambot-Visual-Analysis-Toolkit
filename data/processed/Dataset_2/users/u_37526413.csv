@@ -1,0 +1,6 @@
+time,tweet
+2009-11-21 23:51:44,"Build failure for CURL (u=0, c=0, b=50, w=1, t=0) http://my.cdash.org/buildSummary.php?buildid=38660"
+2009-11-21 23:47:57,"Build failure for CURL (u=0, c=0, b=50, w=1, t=0) http://my.cdash.org/buildSummary.php?buildid=38659"
+2009-11-21 23:17:06,"Build failure for Boost (u=0, c=0, b=50, w=50, t=0) http://my.cdash.org/buildSummary.php?buildid=38657"
+2009-11-21 23:06:50,"Build failure for CLAPACK (u=0, c=0, b=0, w=1, t=0) http://my.cdash.org/buildSummary.php?buildid=38656"
+2009-11-21 22:58:56,"Build failure for kdepim (u=0, c=0, b=0, w=441, t=8) http://my.cdash.org/buildSummary.php?buildid=38655"
